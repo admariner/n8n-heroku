@@ -1,6 +1,7 @@
 # n8n-heroku
 
-![Docker](https://github.com/sarveshpro/n8n-heroku/workflows/Docker/badge.svg) ![Heroku](https://github.com/sarveshpro/n8n-heroku/workflows/Heroku/badge.svg)
+![Docker](https://github.com/sarveshpro/n8n-heroku/workflows/Docker/badge.svg) ![Heroku](https://github.com/sarveshpro/n8n-heroku/workflows/Heroku/badge.svg) ![GitHub Repo stars](https://img.shields.io/github/stars/sarveshpro/n8n-heroku) ![GitHub forks](https://img.shields.io/github/forks/sarveshpro/n8n-heroku)
+
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
